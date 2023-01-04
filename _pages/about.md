@@ -15,4 +15,4 @@ I am a PhD student in the department of [Cognitive and Information Sciences](htt
 
 'They made the machines. That's what I'm trying to tell you. Meat made the machines.'
 
-'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [Terry Bisson, 1991](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
+'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
