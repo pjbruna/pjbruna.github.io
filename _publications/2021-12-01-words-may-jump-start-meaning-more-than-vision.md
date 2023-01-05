@@ -15,4 +15,4 @@ We report a replication of Boutonnet and Lupyan’s (2015) study of the effects 
 [Download paper here](https://doi.org/10.1525/collabra.29763)
 
 Recommended citation: de Leeuw, J. R., Andrews, J., Barney, L., Bigler, M., Bruna, P. J., Chen, Y., Cherry, R., Dowie, D. R., Forbes, 
-E., Haffey, B., Hu, X., Jaklitsch, M., Leopold, N., Lewis, C., MacDonald, D., McShaffrey, C., Nakayama, K., Olstad, W., Peng, R., … Zhang, L. (2021). Words May Jump-Start Meaning More Than Vision: A Non-Replication of Early ERP Effects in Boutonnet and Lupyan (2015). Collabra: Psychology, 7(1). https://doi.org/10.1525/collabra.29763.
+E., Haffey, B., Hu, X., Jaklitsch, M., Leopold, N., Lewis, C., MacDonald, D., McShaffrey, C., Nakayama, K., Olstad, W., Peng, R., … Zhang, L. (2021). Words May Jump-Start Meaning More Than Vision: A Non-Replication of Early ERP Effects in Boutonnet and Lupyan (2015). *Collabra: Psychology, 7*(1). https://doi.org/10.1525/collabra.29763.
