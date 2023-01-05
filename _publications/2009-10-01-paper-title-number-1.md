@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Words May Jump-Start Meaning More Than Vision: A Non-Replication of Early ERP Effects in Boutonnet and Lupyan (2015)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2021
+venue: 'Collabra: Psychology'
+paperurl: 'https://doi.org/10.1525/collabra.29763'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We report a replication of Boutonnet and Lupyan’s (2015) study of the effects of linguistic labelling on perceptual performance. In addition to a response time advantage of linguistic labels over non-linguistic auditory cues in judging visual objects, Boutonnet and Lupyan found that the two types of cues produced different patterns in the early perceptual ERP components P1 and P2 but not the later, semantics-relevant N4. This study thus adds an important piece of evidence supporting the claim of genuine top-down effects on perception. Given the controversy over this claim and the need for replication of key findings, we attempted to replicate Boutonnet and Lupyan (2015). We replicated their behavioral findings that response times to indicate whether an auditory cue matches a visual image of an object were faster for match than mismatch trials and faster for linguistic than non-linguistic cues. We did not replicate the main ERP effects supporting a positive effect of linguistic labels on the early perceptual ERP components P1 and P2, though we did find a congruence by cue type interaction effect on those components. Unlike Boutonnet and Lupyan, we found a main effect of cue type on the N4 in which non-linguistic cues produced more negative amplitudes. Exploratory analyses of the unpredicted N4 effect suggest that the response time advantage of linguistic labels occurred during semantic rather than early visual processing. This experiment was pre-registered at https://osf.io/cq8g4/ and conducted as part of an undergraduate cognitive science research methods class at Vassar College.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1525/collabra.29763)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: de Leeuw, J. R., Andrews, J., Barney, L., Bigler, M., Bruna, P. J., Chen, Y., Cherry, R., Dowie, D. R., Forbes, 
+E., Haffey, B., Hu, X., Jaklitsch, M., Leopold, N., Lewis, C., MacDonald, D., McShaffrey, C., Nakayama, K., Olstad, W., Peng, R., … Zhang, L. (2021). Words May Jump-Start Meaning More Than Vision: A Non-Replication of Early ERP Effects in Boutonnet and Lupyan (2015). *Collabra: Psychology, 7*(1). [https://doi.org/10.1525/collabra.29763](https://doi.org/10.1525/collabra.29763).
