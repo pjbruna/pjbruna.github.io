@@ -2,6 +2,9 @@
 main:
   - title: "Papers & Publications"
     url: /publications/
+    
+  - title: "Book Reviews & Non-Academic Articles"
+    url: /non-academic/
 
   - title: "Talks"
     url: /talks/    
@@ -11,6 +14,3 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Book Reviews & Non-Academic Articles"
-    url: /non-academic/
