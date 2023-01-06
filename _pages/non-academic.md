@@ -10,7 +10,7 @@ redirect_from:
 
 ## Gameable Systems and Functional Divides in Metaphilosophy and Metascience
 
-*Forthcoming*
+(Forthcoming)
 
 
 ## A Review of Bryan W. Van Norden, *Taking Back Philosophy*
