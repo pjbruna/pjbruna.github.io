@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021_cog_sci_intro
 venue: "Vassar College, Cognitive Science"
-date: 2021-08-20
+#date: 2021-08-20
 location: "Poughkeepsie, NY"
 ---
 
