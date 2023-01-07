@@ -3,7 +3,7 @@ title: "Psychophysical Adaptive Procedure: Developing a New, Generalizable Metho
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/2019-09-25-psychophysical-adaptive-procedure
-venue: "Vassar College, Undergraduate Research Summer Institute (URSI)"
+venue: "Vassar College Undergraduate Research Summer Institute (URSI)"
 date: 2019-09-25
 location: "Poughkeepsie, New York"
 ---
