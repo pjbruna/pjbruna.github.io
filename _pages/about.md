@@ -12,7 +12,7 @@ redirect_from:
 'They made the machines. That's what I'm trying to tell you. Meat made the machines.'
 'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 
-<p style="text-align: center;">~~~</p>
+<p style="text-align: center;">~</p>
 
 I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and an [Adolph Sutro Fellow](https://offices.vassar.edu/fellowships/fellowships/graduates/vassar/list-of-vassar-fellowships/) at Vassar College. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
 
@@ -24,7 +24,7 @@ I tackle questions pertaining to how representational structures arise from non-
   
   2) I wish to develop artificially intelligent systems that are capable of forming converstional dyads and achieveing cognitive alignment with human actors. Intelligent machines are becoming increasingly integrated into human activities, both professional and personal, and are being given radically collaborative roles in industries such as architecture, product design, and engineering. These spaces in which humans and machines are engaging in collaborative creativity generate a demand for intelligent machines that are robust in varied and novel communicative tasks by developing effective and adaptive communication strategies with human collaborators.
 
-<p style="text-align: center;">~~~</p>
+<p style="text-align: center;">~</p>
 
 In addition to my primary research, I entertain a variety of tertiary projects and interests, namely:
 
