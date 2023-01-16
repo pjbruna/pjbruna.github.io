@@ -17,8 +17,3 @@ Below I highlight a handful of key writers and texts which have inspired my thin
 
 ## Archive
 
-- *The Ontogeny of Information: Developmental Systems and Evolution* (Susan Oyama)
-- *Philosophy and the Mirror of Nature* (Richard Rorty)
-- *Against Method* (Paul Feyerabend)
-- *The Structure of Scientific Revolutions* (Thomas S. Kuhn)
-- *The Gay Science* (Friedrich Nietzsche)
