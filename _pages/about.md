@@ -8,8 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: center;">*"'So who made the machines? That's who we want to contact.' 'They made the machines. That's what I'm trying to tell you. Meat made the machines.' 'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)</p>
+*"'So who made the machines? That's who we want to contact.'
+'They made the machines. That's what I'm trying to tell you. Meat made the machines.'
+'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 
+---
 
 I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and an [Adolph Sutro Fellow](https://offices.vassar.edu/fellowships/fellowships/graduates/vassar/list-of-vassar-fellowships/) at Vassar College. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
 
+I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemas among cognitive agents. I am currently working on evolving semantic and syntactic interdependence in a reservoir computing model that I hope to scale-up to produce linguistic change in dyadic and population-level dynamics. This approach fundamentally situates language as a complex and noisy perceptual feature that cognitive agents enact in the world. By viewing language as a complex (and developmental) system, I adopt a holistic perspective in which meaning emerges from temporal contingencies amongst distributed representations which embed hierarchical linguistic structure in linear input. This perspective is largely inspired by applying lessons from dynamical systems theory and developmental biology to questions of how agents represent, navigate, and communicate about a shared world.
+
+I tackle questions pertaining to how representational structures arise from non-representational matter, how intersubjectivity develops among cognitive agents, and how incommensurability of different ways of conceptualizing the world can be identified (and surmounted?). In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction. My focus is two-fold:
+
+  1) I wish to develop computational tools for advancing machine translation technologies for morphologically and syntactically distant language pairs (by aligning internal state spaces of a cognitive agent directly rather than matching inputs and outputs across languages with diverse orthographies, morphologies, etc.), which are vital in a world which is becoming increasingly globalized and technologized.
+  
+  2) I wish to develop artificially intelligent systems that are capable of forming converstional dyads and achieveing cognitive alignment with human actors. Intelligent machines are becoming increasingly integrated into human activities, both professional and personal, and are being given radically collaborative roles in industries such as architecture, product design, and engineering. These spaces in which humans and machines are engaging in collaborative creativity generate a demand for intelligent machines that are robust in varied and novel communicative tasks by developing effective and adaptive communication strategies with human collaborators.
+
+
+In addition to my primary research, I entertain a variety of tertiary projects and interests, namely:
+
+- Issues in meta-philosophy and philosophy of science concerning rationality, dialectics, and the [hermeneutic circle](https://en.wikipedia.org/wiki/Hermeneutic_circle). What mechanisms have guided human inquiry across times and cultures? How do belief systems warp and transform through the introduction of new traditions and discoveries? How do humans overcome paradoxes of learning and the problem of ostension to arrive at new (and shared) knowledge? Towards all of these questions, I assume a historical, comparative, and hermeneutic outlook.
+
+- The philosophy of translation and the notion of incommensurability. My thinking on these topics has been most heavily influenced by [W. V. O. Quine](https://plato.stanford.edu/entries/quine) and [Donald Davidson](https://plato.stanford.edu/entries/davidson/). I am especially interested in the ramifications of these issues across multiple scales of analysis (from linguistic to epistemic, from individual to intersubjective, from native language acquisition to foreign language acquisition, and so on).
+
+- Developing language models and computational linguistic tools for engaging with diverse language morphologies, especially agglutinative morphologies (e.g., Japanese).
