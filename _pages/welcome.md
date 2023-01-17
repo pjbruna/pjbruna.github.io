@@ -29,3 +29,5 @@ In addition to my primary research, I entertain a variety of tertiary projects a
 - The philosophy of translation and the notion of incommensurability. My thinking on these topics has been most heavily influenced by [W. V. O. Quine](https://plato.stanford.edu/entries/quine) and [Donald Davidson](https://plato.stanford.edu/entries/davidson/). I am especially interested in the ramifications of these issues across multiple scales of analysis (from linguistic to epistemic, from individual to intersubjective, from native language acquisition to foreign language acquisition, and so on).
 
 - Developing language models and computational linguistic tools for engaging with diverse language morphologies, especially agglutinative morphologies (e.g., Japanese).
+
+<embed src="https://pjbruna.github.io/images/LadyElenaCornaroPiscopia.jpg" type="application/jpg" width="640px" height="422px" />
