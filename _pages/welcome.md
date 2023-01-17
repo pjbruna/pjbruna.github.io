@@ -31,4 +31,4 @@ In addition to my primary research, I entertain a variety of tertiary projects a
 - Developing language models and computational linguistic tools for engaging with diverse language morphologies, especially agglutinative morphologies (e.g., Japanese).
 
 
-<embed src="https://pjbruna.github.io/images/LadyElenaCornaroPiscopia.jpg" width="540px" height="322px" />
+<embed src="https://pjbruna.github.io/images/LadyElenaCornaroPiscopia.jpg" width="340px" height="122px" />
