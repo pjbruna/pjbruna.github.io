@@ -8,12 +8,6 @@ main:
     
   - title: "Book Reviews & Non-Academic Articles"
     url: /non-academic/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/
     
   - title: "CV"
     url: /cv/
