@@ -1,31 +1,22 @@
 ---
-permalink: /
-title: "Welcome"
-excerpt: "About me"
+layout: archive
+title: "About"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-*"'So who made the machines? That's who we want to contact.'
-'They made the machines. That's what I'm trying to tell you. Meat made the machines.'
-'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
+## Current Research
+I currently work with [Dr. Michael Spivey](https://michaelspivey.academia.edu), [Dr. Rachel Ryskin](https://raryskin.github.io), and [Dr. Chris Kello](http://cogmech.ucmerced.edu) at UC Merced evolving semantic and syntactic interdependence in a reservoir computing model that I hope to scale-up to produce linguistic change in dyadic and population-level dynamics. This approach fundamentally situates language as a complex and noisy perceptual feature that cognitive agents enact in the world. By viewing language as a complex (and developmental) system, I adopt a holistic perspective in which meaning emerges from temporal contingencies amongst distributed representations which embed hierarchical linguistic structure in linear input. This perspective is largely inspired by applying lessons from dynamical systems theory and developmental biology to questions of how agents represent, navigate, and communicate about a shared world.
 
-<p style="text-align: center;">~</p>
+With this research:
 
-I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and an [Adolph Sutro Fellow](https://offices.vassar.edu/fellowships/fellowships/graduates/vassar/list-of-vassar-fellowships/) at Vassar College. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
+  1) I wish to develop computational tools for advancing machine translation technologies for morphologically and syntactically distant language pairs (by aligning internal state spaces of a cognitive agent directly rather than matching inputs and outputs across languages with diverse orthographies, morphologies, etc.), which are vital in a world which is becoming increasingly globalized and technologized.
+  
+  2) I wish to develop artificially intelligent systems that are capable of forming converstional dyads and achieveing cognitive alignment with human actors. Intelligent machines are becoming increasingly integrated into human activities, both professional and personal, and are being given radically collaborative roles in industries such as architecture, product design, and engineering. These spaces in which humans and machines are engaging in collaborative creativity generate a demand for intelligent machines that are robust in varied and novel communicative tasks by developing effective and adaptive communication strategies with human collaborators.
 
-I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemas among cognitive agents. I tackle questions pertaining to how representational structures arise from non-representational matter, how intersubjectivity develops among cognitive agents, and how incommensurability of different ways of conceptualizing the world can be identified (and surmounted?). In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.
+## Background
+During the completion of my BA in Cognitive Science at Vassar College, I worked under [Dr. Jan Andrews](https://www.vassar.edu/faculty/andrewsj) and [Dr. Josh de Leeuw](https://www.vassar.edu/faculty/jdeleeuw) studying learned categorical perception (LCP). LCP is a proposed top-down effect referring to the influence of category learning on one’s ability to discriminate certain perceptual features when these features are category-defining. Reports of LCP effects in the literature are sparse and methodologically dissonant, a situation which is not aided by the publication bias against negative results present in the behavioral sciences. Hence, the aim of this research program is to systematically investigate the impact of various methodological choices in LCP research in order to determine how robust LCP effects are. My time on this project included developing new methods for stimulus development leveraging generative adversarial neural networks to create latent perceptual dimensional spaces, producing an innovative adaptive staircasing procedure for crowd-sourced, online psychophysical data collection, and proposing a new method for statistically defining and testing for LCP effects.
 
-<p style="text-align: center;">~</p>
+Additionally, I completed an independent research project in semantic network modeling where I investigated if differences in human judgments of semantic relatedness across different types of semantic relations (e.g. linguistic versus thematic) were reflected in the distributed, structural properties of semantic networks (in particular, how the interaction between various, differentially-weighted paths through a semantic network produces judgments of semantic relatedness between word pairs by fitting a spreading activation model to behavioral data). I also completed a graduation thesis evaluating the capacity for a simple recurrent neural network to produce meaningul linguistic segmentation in Japanese, which exhibits a morphologically complex agglutinative structure that traditional language models are ill-equipped to handle.
 
-In addition to my primary research, I entertain a variety of tertiary projects and interests, namely:
-
-- Issues in metaphilosophy and philosophy of science concerning rationality, dialectics, and the [hermeneutic circle](https://en.wikipedia.org/wiki/Hermeneutic_circle). What mechanisms have guided human inquiry across times and cultures? How do belief systems warp and transform through the introduction of new traditions and discoveries? How do humans overcome paradoxes of learning and the problem of ostension to arrive at new (and shared) knowledge? Towards all of these questions, I assume a historical, comparative, and hermeneutic outlook.
-
-- Meta-modeling. How do the formal models posited by scientists function differently from the "models" of the world we naively adopt when we speak a certain language or participate in a certain scientific tradition? What hermeneutic problems illuminated by metaphilosophy and philosophy of science arise too in our efforts to develop computational models of natural phenomena? In what ways do different types of models provide us with unique conceptual analyses of the world around us?
-
-- The philosophy of translation and the notion of incommensurability. My thinking on these topics has been most heavily influenced by [W. V. O. Quine](https://plato.stanford.edu/entries/quine) and [Donald Davidson](https://plato.stanford.edu/entries/davidson/). I am especially interested in the ramifications of these issues across multiple scales of analysis (from linguistic to epistemic, from individual to intersubjective, from native language acquisition to foreign language acquisition, and so on).
-
-- Developing language models and computational linguistic tools for engaging with diverse language morphologies, especially agglutinative morphologies (e.g., Japanese).
+My BA in Philosophy included focuses in **metaphilosophy**, **epistemology**, and **East and Southeast Asian philosophy** (especially Chinese philosophy). I consider studying under [Dr. Bryan Van Norden](http://www.bryanvannorden.com), [Dr. Sofia Ortiz-Hinojosa](https://www.vassar.edu/faculty/sortizhinojosa), and [Dr. Douglas Winblad](https://www.vassar.edu/faculty/emeriti/dowinblad) to be especially formative to my philosophical training.
