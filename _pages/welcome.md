@@ -30,7 +30,8 @@ In addition to my primary research, I entertain a variety of tertiary projects a
 
 - Developing language models and computational linguistic tools for engaging with diverse language morphologies, especially agglutinative morphologies (e.g., Japanese).
 
+<br>
 
-<img src="https://pjbruna.github.io/images/LadyElenaLucreziaCornaroPiscopia.jpg" width="155.75px" height="192px" />
+<img src="https://pjbruna.github.io/images/LadyElenaLucreziaCornaroPiscopia.jpg" width="623px" height="768px">
 
 I spent much of my college years admiring [*The Cornaro Window*](https://vassarcampushistory.vassarspaces.net/architecture/the-cornaro-window), featured in Vassar’s Thompson Memorial Library.
