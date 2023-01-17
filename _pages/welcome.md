@@ -32,6 +32,6 @@ In addition to my primary research, I entertain a variety of tertiary projects a
 
 <br>
 
-<img src="https://pjbruna.github.io/images/LadyElenaLucreziaCornaroPiscopia.jpg" width="623px" height="768px" class="center">
+<img src="https://pjbruna.github.io/images/LadyElenaLucreziaCornaroPiscopia.jpg" class="center" width="623px" height="768px">
 
 I spent much of my college years admiring [*The Cornaro Window*](https://vassarcampushistory.vassarspaces.net/architecture/the-cornaro-window), featured in Vassar’s Thompson Memorial Library.
