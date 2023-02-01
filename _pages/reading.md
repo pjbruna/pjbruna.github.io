@@ -9,7 +9,7 @@ Below I highlight a handful of key writers and texts which have inspired my thin
 
 ## Current Highlights
 
-**- *The Ontogeny of Information: Developmental Systems and Evolution* (Susan Oyama)**
+**- *Evolution's Eye: A Systems View of the Biology-Culture Divide* (Susan Oyama)**
 
 **- *Philosophy and the Mirror of Nature* (Richard Rorty)**
 
