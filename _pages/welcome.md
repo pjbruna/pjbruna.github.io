@@ -22,7 +22,7 @@ I am interested most broadly in developing computational models of cognitive ali
 
 <p style="text-align: center;">~</p>
 
-In addition to my primary research, I entertain a variety of tertiary projects and interests, namely:
+In addition to my primary research, I entertain a variety of auxiliary projects and interests, namely:
 
 - Meta-modeling. How do the formal models posited by scientists function differently from the "models" of the world we naively adopt when we speak a certain language or participate in a certain scientific tradition? What hermeneutic problems illuminated by metaphilosophy and philosophy of science arise too in our efforts to develop computational models of natural phenomena? In what ways do different types of models provide us with unique conceptual analyses of the world around us?
 
