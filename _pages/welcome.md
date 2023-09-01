@@ -29,8 +29,7 @@ In addition to my primary research, I entertain a variety of secondary projects 
 - Issues in metaphilosophy and philosophy of science concerning rationality, dialectics, and the [hermeneutic circle](https://en.wikipedia.org/wiki/Hermeneutic_circle). What mechanisms have guided human inquiry across times and cultures? How do belief systems warp and transform through the introduction of new traditions and discoveries? How do humans overcome paradoxes of learning (e.g., [Meno's Paradox](https://en.wikipedia.org/wiki/Meno#Meno's_paradox)) and the problem of ostension (i.e., that ostension is always ambiguous; see also: the [underdetermination of theory by evidence](https://iep.utm.edu/indeterm/#SSH2ci) and the [indeterminacy of translation](https://iep.utm.edu/indeterm)) to arrive at new (and shared) knowledge? Towards all of these questions, I assume a historical, comparative, and hermeneutic outlook.
 
 - The philosophy of translation and the notion of incommensurability. My thinking on these topics has been most heavily influenced by [W. V. O. Quine](https://plato.stanford.edu/entries/quine) and [Donald Davidson](https://plato.stanford.edu/entries/davidson/). I am especially interested in the ramifications of these issues across multiple scales of analysis (from linguistic to epistemic, from individual to intersubjective, from native language acquisition to foreign language acquisition, and so on).
-
-- Developing language models and computational linguistic tools for engaging with diverse language morphologies, especially agglutinative morphologies (e.g., Japanese).
+<!-- - Developing language models and computational linguistic tools for engaging with diverse language morphologies, especially agglutinative morphologies (e.g., Japanese).-->
 
 <br>
 

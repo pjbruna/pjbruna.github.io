@@ -8,11 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-## Gameable Systems and Functional Divides in Metaphilosophy and Metascience
-
-(Forthcoming)
-
-
 ## A Review of Bryan W. Van Norden, *Taking Back Philosophy*
 Published in *Vassar College Journal of Philosophy*, 2019
 
