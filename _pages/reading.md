@@ -5,7 +5,7 @@ permalink: /reading/
 author_profile: true
 ---
 
-Below I highlight a handful of key writers and texts which have inspired my thinking throughout the years. I occasionally update these listings to reflect what is currently on my mind; therefore, an archive of titles that have appeared on this page may be found at the bottom.
+Below I highlight a handful of writers and texts which have inspired my thinking throughout the years. I occasionally update these listings to reflect what is currently on my mind; therefore, an archive of titles that have appeared on this page may be found at the bottom.
 
 ## Current Highlights
 
