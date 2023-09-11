@@ -9,15 +9,18 @@ Below I highlight a handful of key writers and texts which have inspired my thin
 
 ## Current Highlights
 
+**- *Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution* (R. F. Kuang)**
+
+**- *Narcissus and Goldmund* (Hermann Hesse)**
+
 **- *Evolution's Eye: A Systems View of the Biology-Culture Divide* (Susan Oyama)**
 
 **- *Philosophy and the Mirror of Nature* (Richard Rorty)**
 
-**- *Against Method* (Paul Feyerabend)**
-
-**- *The Structure of Scientific Revolutions* (Thomas S. Kuhn)**
-
-**- *The Gay Science* (Friedrich Nietzsche)**
-
 ## Archive
 
+- *Against Method* (Paul Feyerabend)
+
+- *The Structure of Scientific Revolutions* (Thomas S. Kuhn)
+
+- *The Gay Science* (Friedrich Nietzsche)
