@@ -13,11 +13,11 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 **- *Narcissus and Goldmund* (Hermann Hesse)**
 
-**- *Evolution's Eye: A Systems View of the Biology-Culture Divide* (Susan Oyama)**
-
-**- *Philosophy and the Mirror of Nature* (Richard Rorty)**
-
 ## Archive
+
+- *Evolution's Eye: A Systems View of the Biology-Culture Divide* (Susan Oyama)
+
+- *Philosophy and the Mirror of Nature* (Richard Rorty)
 
 - *Against Method* (Paul Feyerabend)
 
