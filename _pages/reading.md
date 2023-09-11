@@ -25,4 +25,6 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 - *The Structure of Scientific Revolutions* (Thomas S. Kuhn)
 
+- *The Glass Bead Game* (Hermann Hesse)
+
 - *The Gay Science* (Friedrich Nietzsche)
