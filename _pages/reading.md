@@ -9,8 +9,6 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
-**- *Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution* (R. F. Kuang)**
-
 **- *Narcissus and Goldmund* (Hermann Hesse)**
 
 ## Archive
