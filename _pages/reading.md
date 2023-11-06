@@ -9,6 +9,8 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
+**- *His Master's Voice* (Stanisław Lem)**
+
 **- *Narcissus and Goldmund* (Hermann Hesse)**
 
 ## Archive
