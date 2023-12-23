@@ -9,11 +9,13 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
-**- *His Master's Voice* (Stanisław Lem)**
-
-**- *Narcissus and Goldmund* (Hermann Hesse)**
+**- *The Cyberiad: Fables for the Cybernetic Age* (Stanisław Lem)**
 
 ## Archive
+
+- *His Master's Voice* (Stanisław Lem)
+
+- *Narcissus and Goldmund* (Hermann Hesse)
 
 - *Evolution's Eye: A Systems View of the Biology-Culture Divide* (Susan Oyama)
 
