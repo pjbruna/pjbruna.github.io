@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Publications"
+    url: /publications/
     
   - title: "Book Reviews & Non-Academic Articles"
     url: /non-academic/
