@@ -9,6 +9,8 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
+**- *Active Inference: The Free Energy Principle in Mind, Brain, and Behavior* (Thomas Parr, Giovanni Pezzulo, and Karl J. Friston)**
+
 **- *Hidden Order: How Adaptation Builds Complexity* (John H. Holland)**
 
 **- *The Cyberiad: Fables for the Cybernetic Age* (Stanisław Lem)**
