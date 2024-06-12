@@ -9,11 +9,11 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
-**- *Gödel, Escher, Bach: an Eternal Golden Braid* (Douglas R. Hofstadter)**
-
 **- *Active Inference: The Free Energy Principle in Mind, Brain, and Behavior* (Thomas Parr, Giovanni Pezzulo, and Karl J. Friston)**
 
 ## Archive
+
+- *Gödel, Escher, Bach: an Eternal Golden Braid* (Douglas R. Hofstadter)
 
 - *Hidden Order: How Adaptation Builds Complexity* (John H. Holland)
 
