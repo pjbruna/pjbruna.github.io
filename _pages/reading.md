@@ -27,12 +27,12 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 - *The Structure of Scientific Revolutions* (Thomas S. Kuhn)
 
-- *The Gay Science* (Friedrich Nietzsche)
-
 - *The Cyberiad: Fables for the Cybernetic Age* (Stanisław Lem)
 
 - *His Master's Voice* (Stanisław Lem)
 
+- *The Glass Bead Game* (Hermann Hesse)
+
 - *Narcissus and Goldmund* (Hermann Hesse)
 
-- *The Glass Bead Game* (Hermann Hesse)
+- *The Gay Science* (Friedrich Nietzsche)
