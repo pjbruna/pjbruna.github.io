@@ -14,7 +14,7 @@ redirect_from:
 
 <p style="text-align: center;">~</p>
 
-I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced and an [Adolph Sutro Fellow](https://offices.vassar.edu/fellowships/fellowships/graduates/vassar/list-of-vassar-fellowships/) at Vassar College. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
+I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
 
 I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemes among cognitive agents. In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.
 
