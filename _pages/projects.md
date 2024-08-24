@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 **Alignment through dyadic least effort in task-oriented conversations**
-
-*To be presented at the Psychonomic Society's 65th Annual Meeting; New York City, New York*
+<p>*To be presented at the Psychonomic Society's 65th Annual Meeting; New York City, New York*<p>
 
 Conversational partners must align the meanings of words to have productive interactions. One process of alignment is lexical entrainment whereby partners mirror and abbreviate their word usage to converge on shared terms for referents relevant to the conservation. The present study investigates the process of alignment in Danish conversations in which partners learned to categorize unfamiliar “aliens” through talking and trail-and-error feedback. Performance improved as interactions became more abbreviated in terms of lower word entropy but also as partners diverged in their word usage, contrary to lexical entrainment. We explain these results by adapting a model of speaker and listener effort that shows how partners may align their referents, and thereby support task performance, by minimizing the entropy of their joint word distribution, as well as entropy conditioned on their individual referents. We conclude that the principle of least effort proposed to shape language evolution may also support conversational alignment.
+
+---
 
 **Emergent Mental Lexicon Functions in ChatGPT**
 
@@ -19,7 +20,7 @@ Conversational partners must align the meanings of words to have productive inte
 
 Traditional theories of the human mental lexiconposit dedicated mechanisms of processing that develop as sustained functions of brain and mind. Large Language Models (LLMs) provide a new approach in which lexical functions emerge from the learningand processing of sequences in contexts. We prompted lexicalfunctions in ChatGPT and compared numeric responses with averaged human data for a sample of 390 words for a range of lexical variables, some derived from corpus analyses and some from Likert ratings.ChatGPT responses were moderately to highly correlated with mean values, more so for GPT-4 versus GPT-3.5, and responses were sensitive to context and human inter-rater reliability. We argue that responses were not recalled from memorized trainingdata but were instead soft-assembledfrom more general-purpose representations. Emergent functions in LLMsoffer a new approach to modeling language and cognitive processes.
 
-Kello, C., & Bruna, P. J. (2024). *Emergent Mental Lexicon Functions in ChatGPT. Proceedings of the Annual Meeting of the Cognitive Science Society,* 46. https://escholarship.org/uc/item/5m9098b5
+- Kello, C., & Bruna, P. J. (2024). *Emergent Mental Lexicon Functions in ChatGPT. Proceedings of the Annual Meeting of the Cognitive Science Society,* 46. https://escholarship.org/uc/item/5m9098b5
 
 ---
 
