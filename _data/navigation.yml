@@ -5,12 +5,12 @@ main:
 
   - title: "Projects"
     url: /projects/
-#    
-#  - title: "Book Reviews & Non-Academic Articles"
-#    url: /non-academic/
-#
+
   - title: "Talks"
     url: /talks/    
+
+  - title: "Extras"
+    url: /non-academic/
 #
 #  - title: "Teaching"
 #    url: /teaching/

@@ -86,7 +86,7 @@ author:
   location         : "University of California, Merced"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fKn2HsgAAAAJ&hl=en&oi=ao"
   email            : "pbruna@ucmerced.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
