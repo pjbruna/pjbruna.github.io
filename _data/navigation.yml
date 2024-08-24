@@ -4,11 +4,11 @@ main:
     url: /about/
 
   - title: "Projects"
-    url: /publications/
-    
-  - title: "Book Reviews & Non-Academic Articles"
-    url: /non-academic/
-
+    url: /projects/
+#    
+#  - title: "Book Reviews & Non-Academic Articles"
+#    url: /non-academic/
+#
   - title: "Talks"
     url: /talks/    
 #
