@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 **Alignment through dyadic least effort in task-oriented conversations**
-<p>*To be presented at the Psychonomic Society's 65th Annual Meeting; New York City, New York*<p>
+
+*To be presented at the Psychonomic Society's 65th Annual Meeting; New York City, New York*
 
 Conversational partners must align the meanings of words to have productive interactions. One process of alignment is lexical entrainment whereby partners mirror and abbreviate their word usage to converge on shared terms for referents relevant to the conservation. The present study investigates the process of alignment in Danish conversations in which partners learned to categorize unfamiliar “aliens” through talking and trail-and-error feedback. Performance improved as interactions became more abbreviated in terms of lower word entropy but also as partners diverged in their word usage, contrary to lexical entrainment. We explain these results by adapting a model of speaker and listener effort that shows how partners may align their referents, and thereby support task performance, by minimizing the entropy of their joint word distribution, as well as entropy conditioned on their individual referents. We conclude that the principle of least effort proposed to shape language evolution may also support conversational alignment.
 
@@ -32,7 +33,7 @@ Traditional theories of the human mental lexiconposit dedicated mechanisms of pr
 
 Discussion of AI alignment (alignment between humans and AI systems) has focused on value alignment, broadly referring to creating AI systems that share human values. We argue that before we can even attempt to align values, it is imperative that AI systems and humans align the concepts they use to understand the world. We integrate ideas from philosophy, cognitive science, and deep learning to explain the need for concept alignment, not just value alignment, between humans and machines. We summarize existing accounts of how humans and machines currently learn concepts, and we outline opportunities and challenges in the path towards shared concepts. Finally, we explain how we can leverage the tools already being developed in cognitive science and AI research to accelerate progress towards concept alignment.
 
-Rane, S., Bruna, P. J., Sucholutsky, I., Kello, C., & Griffiths, T. L. (2024). *Concept Alignment* [Preprint]. ArXiv. http://arxiv.org/abs/2401.08672
+- Rane, S., Bruna, P. J., Sucholutsky, I., Kello, C., & Griffiths, T. L. (2024). *Concept Alignment* [Preprint]. ArXiv. http://arxiv.org/abs/2401.08672
 
 ---
 
@@ -76,7 +77,7 @@ Learned categorical perception (CP) is a phenomenon where learning to place obje
 
 We report a replication of Boutonnet and Lupyan’s (2015) study of the effects of linguistic labelling on perceptual performance. In addition to a response time advantage of linguistic labels over non-linguistic auditory cues in judging visual objects, Boutonnet and Lupyan found that the two types of cues produced different patterns in the early perceptual ERP components P1 and P2 but not the later, semantics-relevant N4. This study thus adds an important piece of evidence supporting the claim of genuine top-down effects on perception. Given the controversy over this claim and the need for replication of key findings, we attempted to replicate Boutonnet and Lupyan (2015). We replicated their behavioral findings that response times to indicate whether an auditory cue matches a visual image of an object were faster for match than mismatch trials and faster for linguistic than non-linguistic cues. We did not replicate the main ERP effects supporting a positive effect of linguistic labels on the early perceptual ERP components P1 and P2, though we did find a congruence by cue type interaction effect on those components. Unlike Boutonnet and Lupyan, we found a main effect of cue type on the N4 in which non-linguistic cues produced more negative amplitudes. Exploratory analyses of the unpredicted N4 effect suggest that the response time advantage of linguistic labels occurred during semantic rather than early visual processing. This experiment was pre-registered at [https://osf.io/cq8g4/](https://osf.io/cq8g4/) and conducted as part of an undergraduate cognitive science research methods class at Vassar College. 
 
-de Leeuw, J. R., Andrews, J., Barney, L., Bigler, M., Bruna, P. J., Chen, Y., Cherry, R., Dowie, D. R., Forbes, 
+- de Leeuw, J. R., Andrews, J., Barney, L., Bigler, M., Bruna, P. J., Chen, Y., Cherry, R., Dowie, D. R., Forbes, 
 E., Haffey, B., Hu, X., Jaklitsch, M., Leopold, N., Lewis, C., MacDonald, D., McShaffrey, C., Nakayama, K., Olstad, W., Peng, R., … Zhang, L. (2021). Words May Jump-Start Meaning More Than Vision: A Non-Replication of Early ERP Effects in Boutonnet and Lupyan (2015). *Collabra: Psychology, 7*(1)
 
 ---
