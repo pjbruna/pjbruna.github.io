@@ -5,10 +5,10 @@ main:
 
   - title: "Projects"
     url: /projects/
-
-  - title: "Talks"
-    url: /talks/    
-
+#
+#  - title: "Talks"
+#    url: /talks/    
+#
   - title: "Extras"
     url: /non-academic/
 #
