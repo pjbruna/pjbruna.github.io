@@ -19,9 +19,8 @@ Bruna, P. & Kello, C., (2024)
 
 Kello, C. & Bruna, P. (2024)
 
-[Preprint](https://osf.io/preprints/psyarxiv/gka2j)
-
-[A version of this paper appeared in the Proceedings of the 46th Annual Meeting of the Cognitive Science Society.](https://escholarship.org/uc/item/5m9098b5)
+*[Preprint]*(https://osf.io/preprints/psyarxiv/gka2j)
+- [A version of this paper appeared in the Proceedings of the 46th Annual Meeting of the Cognitive Science Society.](https://escholarship.org/uc/item/5m9098b5)
 
 ---
 
@@ -29,9 +28,8 @@ Kello, C. & Bruna, P. (2024)
 
 Rane, S.,* Bruna, P.,* Sucholutsky, I., Kello, C., & Griffiths, T. L. (2024)
 
-[Preprint](http://arxiv.org/abs/2401.08672)
-
-[A version of this paper appeared at the 37th Annual NeurIPS Conference in the workshop: AI meets Moral Philosophy and Moral Psychology (MP2).](https://aipsychphil.github.io)
+*[Preprint]*(http://arxiv.org/abs/2401.08672)
+- [A version of this paper appeared at the 37th Annual NeurIPS Conference in the workshop: AI meets Moral Philosophy and Moral Psychology (MP2).](https://aipsychphil.github.io)
 
 ---
 
@@ -45,8 +43,6 @@ Bruna, P. & Spivey, M. J.
 
 **What Next? : Leveraging Surprise in a Recurrent Neural Network to (de)Construct Morphological Complexity in Japanese** 
 
-Bruna, P. (2022)
-
 *This work was completed as an undergraduate senior thesis.*
 
 ---
@@ -58,8 +54,6 @@ Bruna, P. (2022)
 ---
 
 **Psychophysical Adaptive Procedure: Developing a New, Generalizable Method**
-
-Bruna, P. (2021)
 
 *This work was completed as an undergraduate research project.*
 
@@ -75,7 +69,5 @@ E., Haffey, B., Hu, X., Jaklitsch, M., Leopold, N., Lewis, C., MacDonald, D., Mc
 ---
 
 **Exploring Semantic Relatedness Judgments in the Structure of a Semantic Network**
-
-Bruna, P. (2020)
 
 *This work was completed as an undergraduate independent study project.*
