@@ -22,7 +22,7 @@ I am interested most broadly in developing computational models of cognitive ali
 
 I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted at the Institute for Pure and Applied Mathematics!
 
-<p style="text-align: center;">~</p>
+## Things I think about...
 
 In addition to my primary research, I entertain a variety of secondary projects and interests, namely:
 
