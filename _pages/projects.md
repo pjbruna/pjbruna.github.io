@@ -7,9 +7,7 @@ author_profile: true
 
 ---
 
-**Alignment through dyadic least effort in task-oriented conversations.**
-
-Bruna, P. & Kello, C., (2024)
+**Alignment through dyadic least effort in task-oriented conversations.** (Bruna & Kello, 2024)
 
 *To be presented at the Psychonomic Society's 65th Annual Meeting.*
 
@@ -17,37 +15,33 @@ Bruna, P. & Kello, C., (2024)
 
 ---
 
-**Emergent Mental Lexicon Functions in ChatGPT**
-
-Kello, C. & Bruna, P. (2024)
+**Emergent Mental Lexicon Functions in ChatGPT** (Kello & Bruna, 2024)
 
 [*Preprint*](https://osf.io/preprints/psyarxiv/gka2j)
-- [A version of this paper appeared in the Proceedings of the 46th Annual Meeting of the Cognitive Science Society.](https://escholarship.org/uc/item/5m9098b5)
 
 <span style="font-size:0.75em;">Traditional theories of the human mental lexicon posit dedicated mechanisms of processing that develop as sustained functions of brain and mind. Large Language Models (LLMs) provide a new approach in which lexical functions emerge from the learning and processing of sequences in contexts. We prompted lexical functions in ChatGPT and compared numeric responses with averaged human data for a sample of 390 words for a range of lexical variables, some derived from corpus analyses and some from Likert ratings. ChatGPT responses were moderately to highly correlated with mean values, more so for GPT-4 versus GPT-3.5, and responses were sensitive to context and human inter-rater reliability. We argue that responses were not recalled from memorized training data but were instead soft-assembled from more general-purpose representations. Emergent functions in LLMs offer a new approach to modeling language and cognitive processes.</span>
 
+[A version of this paper appeared in the Proceedings of the 46th Annual Meeting of the Cognitive Science Society.](https://escholarship.org/uc/item/5m9098b5)
+
 ---
 
-**Concept Alignment**
-
-Rane, S.,* Bruna, P.,* Sucholutsky, I., Kello, C., & Griffiths, T. L. (2024)
+**Concept Alignment** (Rane,* Bruna,* Sucholutsky, Kello, & Griffiths, 2024)
 
 [*Preprint*](http://arxiv.org/abs/2401.08672)
-- [A version of this paper appeared at the 37th Annual NeurIPS Conference in the workshop: AI meets Moral Philosophy and Moral Psychology (MP2).](https://aipsychphil.github.io)
 
 <span style="font-size:0.75em;">Discussion of AI alignment (alignment between humans and AI systems) has focused on value alignment, broadly referring to creating AI systems that share human values. We argue that before we can even attempt to align values, it is imperative that AI systems and humans align the concepts they use to understand the world. We integrate ideas from philosophy, cognitive science, and deep learning to explain the need for concept alignment, not just value alignment, between humans and machines. We summarize existing accounts of how humans and machines currently learn concepts, and we outline opportunities and challenges in the path towards shared concepts. Finally, we explain how we can leverage the tools already being developed in cognitive science and AI research to accelerate progress towards concept alignment.</span>
 
+[A version of this paper appeared at the 37th Annual NeurIPS Conference in the workshop: AI meets Moral Philosophy and Moral Psychology (MP2).](https://aipsychphil.github.io)
+
 ---
 
-**Semantics and Syntax Co-emerge in Adaptive Reservoir Network Dynamics** 
-
-Bruna, P. & Spivey, M. J.
+**Semantics and Syntax Co-emerge in Adaptive Reservoir Network Dynamics** (Bruna & Spivey)
 
 *Manuscript in preparation.*
 
 ---
 
-**What Next? : Leveraging Surprise in a Recurrent Neural Network to (de)Construct Morphological Complexity in Japanese** 
+**What Next? : Leveraging Surprise in a Recurrent Neural Network to (de)Construct Morphological Complexity in Japanese** (Bruna, 2022)
 
 *This work was completed as an undergraduate senior thesis.*
 
@@ -61,7 +55,7 @@ Bruna, P. & Spivey, M. J.
 
 ---
 
-**Psychophysical Adaptive Procedure: Developing a New, Generalizable Method**
+**Psychophysical Adaptive Procedure: Developing a New, Generalizable Method** (Bruna, 2021)
 
 *This work was completed as an undergraduate research project.*
 
@@ -84,11 +78,11 @@ E., Haffey, B., Hu, X., Jaklitsch, M., Leopold, N., Lewis, C., MacDonald, D., Mc
 
 ---
 
-**Exploring Semantic Relatedness Judgments in the Structure of a Semantic Network**
+**Exploring Semantic Relatedness Judgments in the Structure of a Semantic Network** (Bruna, 2020)
 
 *This work was completed as an undergraduate independent study project.*
 
-[*Unpublished manuscript*](https://osf.io/sj7tg)
+[*Paper*](https://osf.io/sj7tg)
 
 <span style="font-size:0.75em;">Drawing upon work by De Deyne et al. (2016), I explore a model of spreading activation through a semantic network in regards to how different kinds of semantic relationships are encoded  in  said  network.  In  particular,  I  examine  the contribution  of  indirect  pathways  through  the  network  to explain differences in similarity judgments of sensorimotor and linguistic relationships between pairs of words. I propose that the structure of a semantic network  encodes properties that distinguish these two types of semantic relationships that are not  revealed  by  measures  of  association  strength  that  only examine  direct  connections  within  the  network.  A  cosine similarity measure extracted from a spreading activation model is compared to a measure of association strength in accounting for observed similarity judgments, and a model for examining the differential contributions of various random walk pathways through a semantic network in the encoding of sensorimotor and linguistic semantic relationships is presented.</span>
 
