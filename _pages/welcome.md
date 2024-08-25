@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-*"'So who made the machines? That's who we want to contact.'
+<span style="font-size:0.75em;">*"'So who made the machines? That's who we want to contact.'
 'They made the machines. That's what I'm trying to tell you. Meat made the machines.'
-'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
-
-<p style="text-align: center;">~</p>
+'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)</span>
 
 I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
 
 I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemes among cognitive agents. In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.
 
 <!--I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemas among cognitive agents. I tackle questions pertaining to how representational structures arise from non-representational matter, how intersubjectivity develops among cognitive agents, and how incommensurability of different ways of conceptualizing the world can be identified (and surmounted?). In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.-->
+
+## Announcements
+
+I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted at the Institute for Pure and Applied Mathematics!
 
 <p style="text-align: center;">~</p>
 
