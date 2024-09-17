@@ -10,7 +10,9 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 ## Current Highlights
 
 **- *Stories of Five Decades* (Hermann Hesse)**
+
 **- *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)**
+
 **- *Complex-Systems Research in Psychology* (Han L. J. van der Maas)**
 
 ## Archive
