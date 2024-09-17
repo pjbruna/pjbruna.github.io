@@ -9,9 +9,13 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
-**- *The Alignment Problem* (Brian Christian)**
+**- *Stories of Five Decades* (Hermann Hesse)**
+**- *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)**
+**- *Complex-Systems Research in Psychology* (Han L. J. van der Maas)**
 
 ## Archive
+
+- *The Alignment Problem* (Brian Christian)
 
 - *Gödel, Escher, Bach: an Eternal Golden Braid* (Douglas R. Hofstadter)
 
