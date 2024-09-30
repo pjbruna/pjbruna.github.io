@@ -7,11 +7,13 @@ author_profile: true
 
 ---
 
-**Alignment through dyadic least effort in task-oriented conversations.** (Bruna & Kello, 2024)
+**Least Effort and Alignment in Task-Oriented Communication** (Bruna & Kello, 2024)
+
+[*Preprint*](https://osf.io/preprints/psyarxiv/ftz98)
+
+<span style="font-size:0.75em;">Conversational partners must align the meanings of their words over the course of interaction in order to coordinate and communicate. One process of alignment is lexical entrainment, whereby partners mirror and abbreviate their word usage to converge on shared terms for referents relevant to the conservation. However, lexical entrainment may be inefficient to the extent that this kind of behavioral matching does not add to communication, suggesting that task-oriented communication may favor alignment through other means. The present study investigates the process of alignment in Danish conversations in which dyads learned to categorize unfamiliar “aliens” using trial-and-error feedback. Performance improved as dyad communication became less verbose, measuredas a decrease in the entropy of observable word usage. Word usage also diverged between partners as measured by Jensen-Shannon Divergence, which indicates that alignment was not achieved through lexical entrainment. A computational model of dyadic communication is shown to account for the alien game results in terms of joint least effort. Latent alignment increased, as measured by the mutual information between partner referent distributions, by minimizing both the joint entropy of dyadic word usage, and the entropy of word usage conditioned on the separate partner referent distributions. We conclude that the principle of least effort, originally proposed to shape language evolution, may also support alignment in task-oriented communication.</span>
 
 *To be presented at the Psychonomic Society's 65th Annual Meeting.*
-
-<span style="font-size:0.75em;">Conversational partners must align the meanings of words to have productive interactions. One process of alignment is lexical entrainment whereby partners mirror and abbreviate their word usage to converge on shared terms for referents relevant to the conservation. The present study investigates the process of alignment in Danish conversations in which partners learned to categorize unfamiliar “aliens” through talking and trail-and-error feedback. Performance improved as interactions became more abbreviated in terms of lower word entropy but also as partners diverged in their word usage, contrary to lexical entrainment. We explain these results by adapting a model of speaker and listener effort that shows how partners may align their referents, and thereby support task performance, by minimizing the entropy of their joint word distribution, as well as entropy conditioned on their individual referents. We conclude that the principle of least effort proposed to shape language evolution may also support conversational alignment.</span>
 
 ---
 
