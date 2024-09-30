@@ -20,7 +20,9 @@ I am interested most broadly in developing computational models of cognitive ali
 
 ## Announcements
 
-I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted at the Institute for Pure and Applied Mathematics!
+Sept. 7th, 2024: I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted at the Institute for Pure and Applied Mathematics!
+
+Aug. 30th, 2024: Happy to announce that I have been awarded a Humane Studies Fellowship from the [Institute for Humane Studies](https://www.theihs.org/) at George Mason University in support of my research on alignment in humans and machines.
 
 ## Things I think about...
 
