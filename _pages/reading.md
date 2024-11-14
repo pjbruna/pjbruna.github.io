@@ -9,8 +9,6 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
-**- *All Things Are Full of Gods: The Mysteries of Mind and Life* (David Bentley Hart)**
-
 **- *Stories of Five Decades* (Hermann Hesse)**
 
 **- *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)**
