@@ -14,11 +14,13 @@ redirect_from:
 
 I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
 
-I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemes among cognitive agents. In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.
+I am interested in using information theory, complex and dynamical systems, and neural networks to develop computational models of coordination and alignment in collective intelligences. I use these models as a springboard for examining the emergence and evolution of shared conceptual schemes among cognitive agents. In my work, I aim to transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.
 
-<!--I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemas among cognitive agents. I tackle questions pertaining to how representational structures arise from non-representational matter, how intersubjectivity develops among cognitive agents, and how incommensurability of different ways of conceptualizing the world can be identified (and surmounted?). In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.-->
+<!-- I am interested most broadly in developing computational models of cognitive alignment and using these models as a springboard for examining the emergence and evolution of shared conceptual schemes among cognitive agents. In my work, I ultimately aim to critically transform the ways in which we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction. -->
 
 ## Announcements
+
+Feb. 24th, 2025: I just arrived in Vienna to join the Complexity Science Hub for its annual winter school. I am looking forward to an intellectually stimulating week with this interdisciplinary and accomplished group!
 
 Sept. 7th, 2024: I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted by the Institute for Pure and Applied Mathematics!
 
@@ -26,9 +28,9 @@ Aug. 30th, 2024: Happy to announce that I have been awarded a Humane Studies Fel
 
 ## Things I think about...
 
-In addition to my primary research, I entertain a variety of secondary projects and interests, namely:
+In addition to my primary research, I entertain a variety of secondary interests, namely:
 
-- Meta-modeling. How do the formal models posited by scientists function differently from the "models" of the world we naively adopt when we speak a certain language or participate in a certain scientific tradition? What hermeneutic problems illuminated by metaphilosophy and philosophy of science arise too in our efforts to develop computational models of natural phenomena? In what ways do different types of models provide us with unique conceptual analyses of the world around us?
+- Philosophy of modeling. How do the formal models posited by scientists function differently from the "models" of the world we naively adopt when we speak a certain language or participate in a certain scientific tradition? What hermeneutic problems illuminated by metaphilosophy and philosophy of science arise too in our efforts to develop computational models of natural phenomena? In what ways do different types of models provide us with unique conceptual analyses of the world around us?
 
 - Issues in metaphilosophy and philosophy of science concerning rationality, dialectics, and the [hermeneutic circle](https://en.wikipedia.org/wiki/Hermeneutic_circle). What mechanisms have guided human inquiry across times and cultures? How do belief systems warp and transform through the introduction of new traditions and discoveries? How do humans overcome paradoxes of learning (e.g., [Meno's Paradox](https://en.wikipedia.org/wiki/Meno#Meno's_paradox)) and the problem of ostension (i.e., that ostension is always ambiguous; see also: the [underdetermination of theory by evidence](https://iep.utm.edu/indeterm/#SSH2ci) and the [indeterminacy of translation](https://iep.utm.edu/indeterm)) to arrive at new (and shared) knowledge? Towards all of these questions, I assume a historical, comparative, and hermeneutic outlook.
 
