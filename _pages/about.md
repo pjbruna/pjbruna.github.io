@@ -9,10 +9,10 @@ author_profile: true
 <!-- I work with [Dr. Chris Kello](http://cogmech.ucmerced.edu) and [Dr. Michael Spivey](https://michaelspivey.academia.edu) at UC Merced evolving cognitive alignment in an unsupervised reservoir computing network model across multiple scales of complexity. This approach fundamentally situates language and meaning in a complex system and is largely inspired by applying lessons from dynamical systems theory and complexity science to questions of how agents represent, navigate, and communicate about a shared world.-->
 
 I work with [Dr. Chris Kello](http://cogmech.ucmerced.edu) in the [Cognitive Mechanics Lab](http://cogmech.ucmerced.edu), as well as [Dr. Michael Spivey](https://michaelspivey.academia.edu), on the following topics:
-- Formalizing alignment via 'interpersonal synergies' using coupled echo state networks that model performance gains achieved through loose coupling in a joint perceptual decision task.
-- Developing an information theoretic model demonstrating emergent alignment between agents in joint-action, communication tasks through minimizing *collective* least effort.
+- Formalizing alignment *qua* 'interpersonal synergies' using coupled echo state networks that model performance gains achieved through loose coupling on a joint perceptual decision task.
+- Demonstrating emergent alignment between agents in joint-action communication through minimizing *collective* least effort in an information theoretic model.
 - Examining emergent task assembly in the behaviors of LLMs from the perspective of metastability in complex, adaptive systems.
-- Exploring local computation in an [adaptive reservoir computing model](https://link.springer.com/article/10.1007/s11571-023-09988-2) for tracking hierarchical temporal structure and completing predictive tasks.
+- Leveraging local computation implemented in an [adaptive, spiking reservoir computer](https://link.springer.com/article/10.1007/s11571-023-09988-2) for predicting hierarchical temporal structure.
 
 <!-- I also work with [Dr. Michael Spivey](https://michaelspivey.academia.edu) to assess if and to what extent an [adaptive reservoir computing model](https://link.springer.com/article/10.1007/s11571-023-09988-2) is able to learn long-range dependencies in a simple linguistic training environment and apply these dependencies to resolve sentential ambiguity. This project's goals are two-fold: 1) to determine if the sort of local computation performed by this model is capable of tracking hierarchical temporal structure and 2) to demonstrate how semantics and syntax can co-emerge as interdependent linguistic properties from simple adaptive behaviors of a cognitive agent entraining with its environment. -->
 
