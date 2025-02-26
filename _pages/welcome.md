@@ -20,7 +20,7 @@ My research uses information theory, complex and dynamical systems, and neural n
 
 ## Announcements
 
-Feb. 24th, 2025: I just arrived in Vienna to join the Complexity Science Hub for its annual winter school. I am looking forward to an intellectually stimulating week with this interdisciplinary and accomplished group!
+Feb. 24th, 2025: I just arrived in Vienna to join the [Complexity Science Hub](https://csh.ac.at/) for its annual winter school. I am looking forward to an intellectually stimulating week with this interdisciplinary and accomplished group!
 
 Sept. 7th, 2024: I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted by the Institute for Pure and Applied Mathematics!
 
