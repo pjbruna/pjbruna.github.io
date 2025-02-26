@@ -8,9 +8,9 @@ author_profile: true
 ## Current Research
 <!-- I work with [Dr. Chris Kello](http://cogmech.ucmerced.edu) and [Dr. Michael Spivey](https://michaelspivey.academia.edu) at UC Merced evolving cognitive alignment in an unsupervised reservoir computing network model across multiple scales of complexity. This approach fundamentally situates language and meaning in a complex system and is largely inspired by applying lessons from dynamical systems theory and complexity science to questions of how agents represent, navigate, and communicate about a shared world.-->
 
-I work with [Dr. Chris Kello](http://cogmech.ucmerced.edu) in the [Cognitive Mechanics Lab](http://cogmech.ucmerced.edu), as well as [Dr. Michael Spivey](https://michaelspivey.academia.edu), on the following topics:
+I work with Dr. Chris Kello in the [Cognitive Mechanics Lab](http://cogmech.ucmerced.edu), as well as [Dr. Michael Spivey](https://michaelspivey.academia.edu), on the following topics:
 - Formalizing alignment *qua* 'interpersonal synergies' using coupled echo state networks that model performance gains achieved through loose coupling on a joint perceptual decision task.
-- Demonstrating emergent alignment between agents in joint-action communication through minimizing *collective* least effort in an information theoretic model.
+- Demonstrating emergent alignment between agents in joint-action communication through minimizing *collective* least effort in an information-theoretic model.
 - Examining emergent task assembly in the behaviors of LLMs from the perspective of metastability in complex, adaptive systems.
 - Leveraging local computation implemented in an [adaptive, spiking reservoir computer](https://link.springer.com/article/10.1007/s11571-023-09988-2) for predicting hierarchical temporal structure.
 
