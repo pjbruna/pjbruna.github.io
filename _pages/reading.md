@@ -11,8 +11,6 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 **- *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)**
 
-**- *Stories of Five Decades* (Hermann Hesse)**
-
 ## Archive
 
 - *The Alignment Problem* (Brian Christian)
@@ -36,7 +34,3 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 - *His Master's Voice* (Stanisław Lem)
 
 - *The Glass Bead Game* (Hermann Hesse)
-
-- *Narcissus and Goldmund* (Hermann Hesse)
-
-- *The Gay Science* (Friedrich Nietzsche)
