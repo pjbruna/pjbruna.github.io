@@ -7,19 +7,33 @@ author_profile: true
 
 ---
 
-**Least Effort and Alignment in Task-Oriented Communication** (Bruna & Kello, 2024)
+**Coupled echo state networks as a model of task-oriented alignment** (Bruna et al., 2025)
 
-[*Preprint*](https://osf.io/preprints/psyarxiv/ftz98)
+*To be presented at CogSci 2025.*
 
-<span style="font-size:0.75em;">Conversational partners must align the meanings of their words over the course of interaction in order to coordinate and communicate. One process of alignment is lexical entrainment, whereby partners mirror and abbreviate their word usage to converge on shared terms for referents relevant to the conservation. However, lexical entrainment may be inefficient to the extent that this kind of behavioral matching does not add to communication, suggesting that task-oriented communication may favor alignment through other means. The present study investigates the process of alignment in Danish conversations in which dyads learned to categorize unfamiliar “aliens” using trial-and-error feedback. Performance improved as dyad communication became less verbose, measuredas a decrease in the entropy of observable word usage. Word usage also diverged between partners as measured by Jensen-Shannon Divergence, which indicates that alignment was not achieved through lexical entrainment. A computational model of dyadic communication is shown to account for the alien game results in terms of joint least effort. Latent alignment increased, as measured by the mutual information between partner referent distributions, by minimizing both the joint entropy of dyadic word usage, and the entropy of word usage conditioned on the separate partner referent distributions. We conclude that the principle of least effort, originally proposed to shape language evolution, may also support alignment in task-oriented communication.</span>
-
-*To be presented at the Psychonomic Society's 65th Annual Meeting.*
+<span style="font-size:0.75em;">Coordination studies reveal that groups can achieve performance exceeding the sum of individual contributions (Bahrami et al., 2010). Further evidence suggests that weak coupling maximizes the benefits of coordinated problem-solving (Abney et al., 2015; Schloesser et al., 2021). This work develops a computational framework to study coordination in coupled systems. We trained two echo state networks (ESNs) to classify cepstrum-coded speech signals from nine native Japanese speakers (Kudo et al., 1999). Coupling ESN feedback during testing reveals a nonlinear relationship between joint performance and coupling: moderate coupling (feedback integrates readout states from both networks) enhances performance, whereas full coupling (feedback is swapped between networks) returns performance to that of independent networks. These results suggest that while interaction between networks can enhance performance, excessive integration may diminish the benefits of independent contributions (cf. Fusaroli et al., 2012). Our model provides a novel, formal framework for explaining interaction dynamics in collective intelligences.</span>
 
 ---
 
-**Emergent Mental Lexicon Functions in ChatGPT** (Kello & Bruna, 2024)
+**Cognition without neurons: modelling anticipation in a basal reservoir computer** (Bruna & Gyllingberg, 2025)
 
-[*Preprint*](https://osf.io/preprints/psyarxiv/gka2j)
+[*Preprint*](https://arxiv.org/abs/2505.02114)
+
+<span style="font-size:0.75em;">How do non-neural organisms, such as the slime mould Physarum polycephalum, anticipate periodic events in their environment? We present a minimal, biologically inspired reservoir model that demonstrates simple temporal anticipation without neurons, spikes, or trained readouts. The model consists of a spatially embedded hexagonal network in which nodes regulate their energy through local, allostatic adaptation. Input perturbations shape energy dynamics over time, allowing the system to internalize temporal regularities into its structure. After being exposed to a periodic input signal, the model spontaneously re-enacts those dynamics even in the absence of further input – a form of unsupervised temporal pattern completion. This behaviour emerges from internal homeodynamic regulation, without supervised learning or symbolic processing. Our results show that simple homeodynamic regulation can support unsupervised prediction, suggesting a pathway to memory and anticipation in basal organisms.</span>
+
+---
+
+**Least Effort and Alignment in Task-Oriented Communication** (Bruna & Kello, 2025)
+
+[*Published in Cognitive Science*](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70062)
+
+<span style="font-size:0.75em;">Conversational partners align the meanings of their words over the course of interaction to coordinate and communicate. One process of alignment is lexical entrainment, whereby partners mirror and abbreviate their word usage to converge on shared terms for referents relevant to the conversation. However, lexical entrainment may result in inefficient mimicry that does not add new information, suggesting that task-oriented communication may favor alignment through other means. The present study investigates the process of alignment in Danish conversations in which dyads learned to categorize unfamiliar “aliens” using trial-and-error feedback. Performance improved as dyad communication became less verbose, measured as a decrease in the entropy of word usage. Word usage also diverged between partners as measured by Jensen−Shannon Divergence, which indicates that alignment was not achieved through lexical entrainment. A computational model of dyadic communication is shown to account for the alien game results in terms of joint least effort. The model shows that alignment of partner referents can increase as a result of minimizing both the joint entropy of dyadic word usage and the conditional entropy of individual referents given the joint signal distribution. We conclude that the principle of least effort, originally proposed to shape language evolution, may also support alignment in task-oriented communication.</span>
+
+---
+
+**Emergent Mental Lexicon Functions in ChatGPT** (Kello & Bruna)
+
+*Manuscript in preparation.*
 
 <span style="font-size:0.75em;">Traditional theories of the human mental lexicon posit dedicated mechanisms of processing that develop as sustained functions of brain and mind. Large Language Models (LLMs) provide a new approach in which lexical functions emerge from the learning and processing of sequences in contexts. We prompted lexical functions in ChatGPT and compared numeric responses with averaged human data for a sample of 390 words for a range of lexical variables, some derived from corpus analyses and some from Likert ratings. ChatGPT responses were moderately to highly correlated with mean values, more so for GPT-4 versus GPT-3.5, and responses were sensitive to context and human inter-rater reliability. We argue that responses were not recalled from memorized training data but were instead soft-assembled from more general-purpose representations. Emergent functions in LLMs offer a new approach to modeling language and cognitive processes.</span>
 
@@ -37,23 +51,11 @@ author_profile: true
 
 ---
 
-**Semantics and Syntax Co-emerge in Adaptive Reservoir Network Dynamics** (Bruna & Spivey)
-
-*Manuscript in preparation.*
-
----
-
 **What Next? : Leveraging Surprise in a Recurrent Neural Network to (de)Construct Morphological Complexity in Japanese** (Bruna, 2022)
 
 *This work was completed as an undergraduate senior thesis.*
 
 <span style="font-size:0.75em;">Formal language modeling exhibits a bias towards the linguistic features observed in English and related languages, namely the ability to describe language in terms of word-based units. This bias has caused language models to be ill-equipped for success in languages exhibiting a high degree of morphological complexity, such as the agglutinative morphology found in Japanese, and indicates a shortcoming in our understanding of the underlying cognitive processes that allow us to be thinkers, speakers, and listeners. I employ a recurrent neural network (RNN) to explore character-by-character predictability in samples of contemporary Japanese text. I address what properties of agglutinative morphology are salient to neural networks and offer a comparison between meaning construction in Japanese and English. This study further investigates the unique morpho-syntactic role played by orthography in Japanese. I find success in extracting certain key features of the structure of Japanese sentences using an RNN and offer a path for deepening our understanding of the differences in information encoding and processing that we observe across languages and how these differences arise.</span>
-
----
-
-**Probing the Methodology and Interpretation of Learned Categorical Perception Research**
-
-*Manuscript in preparation.*
 
 ---
 
@@ -72,7 +74,7 @@ author_profile: true
 de Leeuw, J. R., Andrews, J., Barney, L., Bigler, M., Bruna, P., Chen, Y., Cherry, R., Dowie, D. R., Forbes, 
 E., Haffey, B., Hu, X., Jaklitsch, M., Leopold, N., Lewis, C., MacDonald, D., McShaffrey, C., Nakayama, K., Olstad, W., Peng, R., … Zhang, L. (2021)
 
-[*Published in Collabra: Psychology*](https://pjbruna.github.io/files/words_may_jump_start_meaning_more_than_vision.pdf)
+[*Published in Collabra: Psychology*](https://online.ucpress.edu/collabra/article/7/1/29763/119070/Words-May-Jump-Start-Meaning-More-Than-Vision-A)
 
 <span style="font-size:0.75em;">We report a replication of Boutonnet and Lupyan’s (2015) study of the effects of linguistic labelling on perceptual performance. In addition to a response time advantage of linguistic labels over non-linguistic auditory cues in judging visual objects, Boutonnet and Lupyan found that the two types of cues produced different patterns in the early perceptual ERP components P1 and P2 but not the later, semantics-relevant N4. This study thus adds an important piece of evidence supporting the claim of genuine top-down effects on perception. Given the controversy over this claim and the need for replication of key findings, we attempted to replicate Boutonnet and Lupyan (2015). We replicated their behavioral findings that response times to indicate whether an auditory cue matches a visual image of an object were faster for match than mismatch trials and faster for linguistic than non-linguistic cues. We did not replicate the main ERP effects supporting a positive effect of linguistic labels on the early perceptual ERP components P1 and P2, though we did find a congruence by cue type interaction effect on those components. Unlike Boutonnet and Lupyan, we found a main effect of cue type on the N4 in which non-linguistic cues produced more negative amplitudes. Exploratory analyses of the unpredicted N4 effect suggest that the response time advantage of linguistic labels occurred during semantic rather than early visual processing. This experiment was pre-registered at https://osf.io/cq8g4/ and conducted as part of an undergraduate cognitive science research methods class at Vassar College.</span>
 
