@@ -9,9 +9,13 @@ Below I highlight a handful of writers and texts which have inspired my thinking
 
 ## Current Highlights
 
-**- *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)**
+**- *Introduction to the Theory of Complex Systems* (Peter Klimek, Rudolf Hanel, and Stefan Thurner)**
+
+**- *Blindsight* (Peter Watts)**
 
 ## Archive
+
+- *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)
 
 - *The Alignment Problem* (Brian Christian)
 
