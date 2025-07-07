@@ -20,9 +20,11 @@ My research uses information theory, complex and dynamical systems, and neural n
 
 ## Announcements
 
-Feb. 24th, 2025: I just arrived in Vienna to join the [Complexity Science Hub](https://csh.ac.at/) for its annual winter school. I am looking forward to an intellectually stimulating week with this interdisciplinary and accomplished group!
+June 22nd, 2025: I'm thrilled to be landing in Santa Fe, New Mexico to join this year's cohort for the [Graduate Workshop in Computational Social Science](https://www.santafe.edu/engage/learn/programs/graduate-workshop-computational-social-science) at the Sante Fe Institute.
 
-Sept. 7th, 2024: I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted by the Institute for Pure and Applied Mathematics!
+Feb. 24th, 2025: I just arrived in Vienna to join the [Complexity Science Hub](https://csh.ac.at/) for its annual winter school. I am looking forward to an intellectually stimulating week with this interdisciplinary and accomplished group.
+
+Sept. 7th, 2024: I am very excited to be joining a fantastic crew down at UCLA this fall as a graduate fellow in the [Mathematics of Intelligences program](https://www.ipam.ucla.edu/programs/long-programs/mathematics-of-intelligences/) hosted by the Institute for Pure and Applied Mathematics.
 
 Aug. 30th, 2024: Happy to announce that I have been awarded a Humane Studies Fellowship from the [Institute for Humane Studies](https://www.theihs.org/) at George Mason University in support of my research on alignment in humans and machines.
 
