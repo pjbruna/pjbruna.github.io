@@ -9,13 +9,13 @@ Below I highlight a (non-exhaustive) handful of writers and texts which have ins
 
 ## Current Highlights
 
+**- *Philosophy as Poetry* (Richard Rorty)**
+
 **- *Complex Adaptive Systems: An Introduction to Computational Models of Social Life* (John H. Miller & Scott E. Page)**
 
 **- *Introduction to the Theory of Complex Systems* (Peter Klimek, Rudolf Hanel, and Stefan Thurner)**
 
 ## Archive
-
-- *Philosophy as Poetry* (Richard Rorty)
 
 - *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)
 
