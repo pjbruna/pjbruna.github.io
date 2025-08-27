@@ -9,11 +9,11 @@ Below I highlight a (non-exhaustive) handful of writers and texts which have ins
 
 ## Current Highlights
 
-**- *Philosophy as Poetry (2004 Page-Barbour Lectures)* (Richard Rorty)**
+**- *Philosophy as Poetry, 2004 Page-Barbour Lectures* (Richard Rorty)**
 
 **- *Complex Adaptive Systems: An Introduction to Computational Models of Social Life* (John H. Miller & Scott E. Page)**
 
-**- *Introduction to the Theory of Complex Systems* (Peter Klimek, Rudolf Hanel, and Stefan Thurner)**
+**- *Introduction to the Theory of Complex Systems* (Peter Klimek, Rudolf Hanel, & Stefan Thurner)**
 
 ## Archive
 
