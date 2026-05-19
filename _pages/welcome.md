@@ -12,7 +12,7 @@ redirect_from:
 'They made the machines. That's what I'm trying to tell you. Meat made the machines.'
 'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)</span>
 
-I am a PhD student in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
+I am a PhD candidate in the department of [Cognitive and Information Sciences](https://cogsci.ucmerced.edu/) at UC Merced. I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in [Cognitive Science](https://www.vassar.edu/cogsci/) and [Philosophy](https://www.vassar.edu/philosophy) (*cum laude generali et cum laude in materia subiecta*).
 
 My research uses information theory, complex and dynamical systems, and neural networks to develop computational models of coordination and alignment in collective intelligences. I use these models as a springboard for examining the emergence and evolution of shared conceptual schemes among cognitive agents. In my work, I aim to transform the ways we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.
 
