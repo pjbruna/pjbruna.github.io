@@ -10,11 +10,11 @@ redirect_from:
 
 <span style="font-size:0.75em;">*"'So who made the machines? That's who we want to contact.'
 'They made the machines. That's what I'm trying to tell you. Meat made the machines.'
-'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)</span>
+'That's ridiculous. How can meat make a machine? You're asking me to believe in sentient meat.'"* - [They're Made out of Meat (Terry Bisson, 1991)](https://web.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)</span>
 
 I am a PhD candidate in the department of [Cognitive and Information Sciences at the University of California, Merced](https://cogsci.ucmerced.edu/). I graduated *Phi Beta Kappa*, *Sigma Xi*, and *Psi Chi* from Vassar College in Cognitive Science and Philosophy.
 
-My research uses neural networks, complex and dynamical systems, and information theory to develop computational models of coordination in human joint action and collective intelligence more broadly. Drawing from cognitive science, connectionism, and dynamical systems theory, I use my models as a springboard for examining the emergence and evolution of efficient, distributed information processing in both natural and articial intelligences.
+My research uses neural networks, complex and dynamical systems, and information theory to develop computational models of coordination in human joint action and collective intelligence more broadly. Drawing from cognitive science, connectionism, and dynamical systems theory, I use my models as a springboard for examining the emergence and evolution of efficient, distributed information processing in both natural and artificial intelligences.
 
 <!--shared conceptual schemes among cognitive agents. In my work, I aim to transform the ways we think about language, thought, and meaning. These topics underpin key issues in artificial intelligence and human-machine interaction.-->
 

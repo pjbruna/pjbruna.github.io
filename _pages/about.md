@@ -8,11 +8,11 @@ author_profile: true
 ## Current Research
 <!-- I work with [Dr. Chris Kello](http://cogmech.ucmerced.edu) and [Dr. Michael Spivey](https://michaelspivey.academia.edu) at UC Merced evolving cognitive alignment in an unsupervised reservoir computing network model across multiple scales of complexity. This approach fundamentally situates language and meaning in a complex system and is largely inspired by applying lessons from dynamical systems theory and complexity science to questions of how agents represent, navigate, and communicate about a shared world.-->
 
-I work with Dr. Chris Kello in the [Cognitive Mechanics Lab](http://cogmech.ucmerced.edu), as well as [Dr. Michael Spivey](https://michaelspivey.academia.edu). Together we have explored the following topics:
+I work with [Dr. Chris Kello](https://cin.ucmerced.edu/people/chris-kello) in the Cognitive Mechanics Lab, as well as [Dr. Michael Spivey](https://cin.ucmerced.edu/people/michael-spivey). Together we have explored the following topics:
 
 - **Collective intelligence and distributed computation:** Modeling collective intelligence and efficient distributed computation in coupled ensemble echo state networks.
 
-- **Interpersonal synergies and alignment:** Formalizing alignment qua interpersonal synergies through loose coupling in echo state networks.
+- **Interpersonal synergies and alignment:** Formalizing alignment *qua* interpersonal synergies through loose coupling in echo state networks.
 
 - **Joint-action communication:** Modeling alignment between agents engaged in joint action through principles of collective least effort.
 
