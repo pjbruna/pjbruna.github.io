@@ -7,6 +7,18 @@ author_profile: true
 
 ---
 
+- Emergent performance and collective efficiency in distributed, coupled echo state networks
+- Collective decision-making in coupled echo state networks
+- Least effort and alignment in task-oriented communication
+
+- Spatial navigation at the extremes: The collective accomplishment of high-speed, high-risk navigation in Rally Racing
+- BrainlessLab: from cellular cognition to collective intelligence
+- Cognition without neurons: Modelling anticipation in a basal reservoir computer
+- Contextual assembly of lexical functions in large language models
+- Concept alignment
+
+
+
 **Coupled echo state networks as a model of task-oriented alignment** (Bruna et al., 2025)
 
 *To be presented at CogSci 2025.*
@@ -31,17 +43,17 @@ author_profile: true
 
 ---
 
-**Emergent Mental Lexicon Functions in ChatGPT** (Kello & Bruna)
+**Contextual assembly of lexical functions in large language models** (Kello, Bruna, & Thao, 2025)
 
-*Manuscript in preparation.*
+[*Behavior Research Methods*](https://doi.org/10.3758/s13428-025-02898-7)
 
-<span style="font-size:0.75em;">Traditional theories of the human mental lexicon posit dedicated mechanisms of processing that develop as sustained functions of brain and mind. Large Language Models (LLMs) provide a new approach in which lexical functions emerge from the learning and processing of sequences in contexts. We prompted lexical functions in ChatGPT and compared numeric responses with averaged human data for a sample of 390 words for a range of lexical variables, some derived from corpus analyses and some from Likert ratings. ChatGPT responses were moderately to highly correlated with mean values, more so for GPT-4 versus GPT-3.5, and responses were sensitive to context and human inter-rater reliability. We argue that responses were not recalled from memorized training data but were instead soft-assembled from more general-purpose representations. Emergent functions in LLMs offer a new approach to modeling language and cognitive processes.</span>
+<span style="font-size:0.75em;">Neural network modeling has played a central role in psycholinguistic studies of lexical processing, but the recent advent of large language models (LLMs) offers a different approach that may yield new insights into the mental lexicon. Four LLMs were prompted across three experiments to test how they generate psycholinguistic ratings of words in comparison with humans. LLM ratings, averaged across varying list contexts, were found to be highly correlated with human ratings, and differences in correlation strengths were partly explained by differences in rating ambiguity. LLM context manipulations strengthened correlations with human ratings through better calibration, and variability in LLM ratings was correlated with human inter-rater variability. Additional results from testing LLM generation of word naming latencies showed functional deviations from factors that underlie human word naming, indicating that lexical function assembly in LLMs is currently limited by patterns of co-occurrence in textual data. Patterns at finer-grained timescales are needed in the training data to model online lexical processes. We conclude that LLMs used context to guide the assembly of generalized lexical functions, rather than recalling ratings and latencies from training data.</span>
 
 [A version of this paper appeared in the Proceedings of the 46th Annual Meeting of the Cognitive Science Society.](https://escholarship.org/uc/item/5m9098b5)
 
 ---
 
-**Concept Alignment** (Rane,* Bruna,* Sucholutsky, Kello, & Griffiths, 2024)
+**c** (Rane,* Bruna,* Sucholutsky, Kello, & Griffiths, 2024)
 
 [*Preprint*](http://arxiv.org/abs/2401.08672)
 

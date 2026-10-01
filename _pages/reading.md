@@ -11,17 +11,19 @@ Below I highlight a (non-exhaustive) handful of writers and texts which have ins
 
 **- *Philosophy as Poetry, 2004 Page-Barbour Lectures* (Richard Rorty)**
 
-**- *Complex Adaptive Systems: An Introduction to Computational Models of Social Life* (John H. Miller & Scott E. Page)**
-
 **- *Introduction to the Theory of Complex Systems* (Peter Klimek, Rudolf Hanel, & Stefan Thurner)**
 
 ## Archive
 
 - *Neural Darwinism: The Theory Of Neuronal Group Selection* (Gerald Edelman)
 
+- *The Complex World: An Introduction to the Foundations of Complexity Science* (David Krakauer)
+
 - *The Alignment Problem* (Brian Christian)
 
 - *Gödel, Escher, Bach: an Eternal Golden Braid* (Douglas R. Hofstadter)
+
+- *Complex Adaptive Systems: An Introduction to Computational Models of Social Life* (John H. Miller & Scott E. Page)
 
 - *Hidden Order: How Adaptation Builds Complexity* (John H. Holland)
 
